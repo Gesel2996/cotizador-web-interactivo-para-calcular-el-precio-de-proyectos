@@ -1,4 +1,4 @@
-# Cotizador de Proyectos de Automatización con IA
+# Cotizador de Proyectos de Automatización
 
 Este proyecto presenta un cotizador web interactivo para calcular el precio de proyectos de automatización con Inteligencia Artificial. La interfaz está diseñada con un estilo minimalista y profesional, inspirado en herramientas SaaS modernas como Stripe, Notion y OpenAI.
 
@@ -109,14 +109,3 @@ Las contribuciones son bienvenidas. Para contribuir:
 4. Haz push a la rama (`git push origin feature/nueva-funcion`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
-## 📬 Contacto
-
-Para preguntas o sugerencias, contacta a través de un issue en este repositorio o directamente al desarrollador.
-
----
-
-📌 __Demo en vivo__: [https://ibernabel.github.io/cotizador_automatizacion_ia](https://ibernabel.github.io/cotizador_automatizacion_ia)
